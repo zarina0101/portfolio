@@ -1,0 +1,107 @@
+.main{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	height: 80vh;
+	align-items: center;
+    font-size: 45px;
+}
+
+.main2{
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	height: 10px;
+	align-items: center;
+    font-size: 45px;
+}
+.main11{
+	display: flex;
+	justify-content: center;
+    align-items: flex-end;
+    height: 95%;
+}
+
+.w50{
+	width: 75%;
+    
+
+}
+    
+body{
+	background-color: #bbeeff; 
+	color: #462d86;
+	font-size: 30px;
+	font-family: 'Varela Round', sans-serif; 
+}
+a{                           
+	color: #10002b;
+	background-color: #c1aaff;
+	text-decoration: none;
+	padding: 10px 30px;
+	background-image: radial-gradient (#462d86 2px, transparent 0); 
+	background-size: 5px 5px;
+	background-position: -19px -19px; 
+	border-radius: 1000px;
+}
+a:hover{
+	background-color: #efb8f5;
+	background-image: radial-gradient (#462d86 2px, transparent 0);
+	transition: 0.4s;
+}
+.lol{
+	width: 500px;
+	height: 500px;
+	box-shadow: 0 0 10px 10px green;
+	animation: 3s example infinite ; 
+	animation-timing-function: linear;
+}
+
+
+
+.bred{
+	justify-content: center;
+}
+
+
+
+
+@keyframes example {
+  0%{
+    box-shadow: 0 0 80px 80px #5d88a5;
+	transform: rotate(0deg);
+	border-radius: 60%;
+ }
+ 50%{
+ 	box-shadow: 0 0 40px 40px #876ead;
+	transform: rotate(360deg);
+	border-radius: 50%;
+ }
+ 100%{
+ 	box-shadow: 0 0 80px 80px #9a6397;
+	transform: rotate(720deg);
+	border-radius: 50%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
