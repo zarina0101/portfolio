@@ -9,7 +9,7 @@ body {
     height: 90px;
     align-items: center;
     margin: 30px 40px;
-    background-color: #efb6d1; 
+    background-color: #3c0a88; 
     border-radius: 50px;
 }
 .h4{
@@ -20,16 +20,16 @@ body {
     text-decoration: none;
     font-size: 30px;
     font-weight: 600;
-    color:#7d8581;
+    color:#f191d4;
     margin: 0 25px; 
    }
 .btn{
-    background-color: #7d8581;
+    background-color: #b5a7f5;
     padding: 5px 15px;
     border-radius: 20px;
     text-decoration: none;
     font-size: 30px;
-    color: white;
+    color: rgb(53, 59, 84);
     margin: 0 25px;
    }
 .right{
@@ -89,13 +89,13 @@ img{
 
 #aboutme{
     padding: 50px;
-    color:#FFB1B1;
-    background-color: #FFEAE3;
+    color:#b19ef0;
+    background-color: #c0d6f9;
     position: relative;
     z-index: 3;
 }
 .pink{
-    color: #c91616;
+    color: #ff3161;
     font-size: 85px;
     text-align: center;
 }
@@ -110,7 +110,7 @@ img{
     width: 300px;
 }
 .promenyatext{
-	color: #FFB1B1;
+	color: #ff8091;
     font-size: 45px;
     text-align: center;
 }
